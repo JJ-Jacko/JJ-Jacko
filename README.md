@@ -2,17 +2,13 @@
 ```python
 resp = client.responses.create(
     model="JJ_Jacko",
-    input=[
-        {
-            "role": "Python Automation Developer | Web Scraping | AI Data Workflows",
-            "content": [
-                {
-                    "type": "input_text",
-                    "text": "Build, automate, scrape, and ship.",
-                }
-            ],
-        }
-    ],
+    input=[{
+        "role": "Python Automation Developer | Web Scraping | AI Data Workflows",
+        "content": [{
+            "type": "input_text",
+            "text": "Build, automate, scrape, and ship."
+        }]
+    }]
 )
 ```
 
