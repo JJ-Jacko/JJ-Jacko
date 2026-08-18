@@ -4,7 +4,11 @@
 
 ⬜ Learn TypeScript in depth.
 
+⬜ Learn Redis in depth.
+
 ⬜ Learn PostgreSQL in depth.
+
+⬜ Learn Cloudflare workflows in rough.
 
 ⬜ Learn [Telegram Bot](https://github.com/JJ-Jacko/tg_bot_learn) in rough.
 
