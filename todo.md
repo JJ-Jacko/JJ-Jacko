@@ -6,6 +6,8 @@
 
 ⬜ Learn PostgreSQL in depth.
 
+⬜ Learn [Telegram Bot](https://github.com/JJ-Jacko/tg_bot_learn) in rough.
+
 ⬜ Look for internship opportunities in backend development.
 
 🟨 Maintain & improve existing projects multiple times a week.
