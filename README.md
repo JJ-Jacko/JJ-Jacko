@@ -38,6 +38,7 @@ while True:
     ship()
     write_to_blog("blog.jacko.asia")
 ```
+[📝 TODO](todo.md)
 
 ## ✨ Philosophy
 > If it can be automated, automate it.  
