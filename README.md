@@ -5,7 +5,7 @@ resp = client.responses.create(
     input=[{
         "role": "Python Automation Developer | Web Scraping | AI Data Workflows",
         "content": [{
-            "type": "input_text",
+            "type": "mission",
             "text": "Build, automate, scrape, and ship."
         }]
     }]
