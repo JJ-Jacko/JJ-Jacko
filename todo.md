@@ -4,6 +4,8 @@
 
 ⬜ Learn TypeScript in depth.
 
+⬜ Learn Vite in depth.
+
 ⬜ Learn Redis in depth.
 
 ⬜ Learn PostgreSQL in depth.
