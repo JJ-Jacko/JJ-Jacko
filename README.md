@@ -1,3 +1,5 @@
+**Languages:** [简体中文](README_zh_cn.md) | [繁體中文](README_zh_hk.md)
+
 ## 📋 Description
 ```python
 resp = client.responses.create(

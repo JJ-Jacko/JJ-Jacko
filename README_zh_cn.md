@@ -1,0 +1,44 @@
+**Languages:** [English](README.md) | [繁體中文](README_zh_hk.md)
+
+## 📋 描述
+```python
+resp = client.responses.create(
+    model="JJ_Jacko",
+    input=[{
+        "role": "Python 自动化开发 | 网络爬虫 | AI 驱动的数据工作流",
+        "content": [{
+            "type": "mission",
+            "text": "构建、自动化、爬虫、交付"
+        }]
+    }]
+)
+```
+
+## 🛠️ 技术栈
+```python
+tech = {
+    "Language": ["Python", "TypeScript", "SQL"],
+    "Backend": ["FastAPI", "SQLModel"],
+    "Data": ["Web Scraping", "Automation", "Data Processing"],
+    "AI": ["LLM", "RAG", "MCP", "Ollama"],
+    "Database": ["SQLite", "MySQL", "PostgreSQL"],
+    "Environment": ["Linux", "Docker", "Git"]
+}
+```
+
+## ♻️ 工作循环
+```python
+while True:
+    find_a_problem()                    # 找痛点
+    design_a_solution()                 # 设计方案
+    write_code()                        # 写代码
+    automate_the_boring_parts()         # 自动化繁琐的部分
+    ship()                              # 交付
+    write_to_blog("blog.jacko.asia")    # 积累到个人博客
+```
+[📝 TODO](todo.md)
+
+## ✨ 理念
+> 能自动化的自动化
+> 能简化的简化
+> 能跳过的跳过
