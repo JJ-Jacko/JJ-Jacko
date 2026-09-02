@@ -1,5 +1,6 @@
 # 📝 TODO
 
+## ⏳ Pending
 ⬜ Learn FastAPI in depth.
 
 ⬜ Learn front-end in depth.
@@ -22,3 +23,4 @@
 
 🟨 Keep learning & exploring AI through X, YouTube, Bilibili, and other social media.
 
+## ✔️ Finished
