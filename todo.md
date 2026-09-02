@@ -46,6 +46,12 @@
 
 ⬜ feat(linux.immortalwrt)
 
+#### [tool_box](https://github.com/JJ-Jacko/tool_box)
+⬜ refactor: project DIR mode -> CLI mode
+
+⬜ feat(cli.password_gen)
+
+
 ### Other
 🟨 Keep learning & exploring AI through X, YouTube, Bilibili, and other social media.
 
