@@ -38,6 +38,14 @@
 
 ⬜ feat(home.news): all posts sored by post date
 
+⬜ feat(linux.jellyfin)
+
+⬜ feat(linux.openlist)
+
+⬜ feat(linux.qbittorrent)
+
+⬜ feat(linux.immortalwrt)
+
 ### Other
 🟨 Keep learning & exploring AI through X, YouTube, Bilibili, and other social media.
 
