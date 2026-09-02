@@ -36,6 +36,8 @@
 
 ⬜ feat(python.cli_app): module `argparse`
 
+⬜ feat(python.design.nogui_app): project-dir, CLI-friendly (Recommended)
+
 ⬜ feat(linux.env_var): traditional method
 
 ⬜ feat(home.news): all posts sored by post date
