@@ -51,6 +51,10 @@
 
 ⬜ feat(cli.password_gen)
 
+#### Music App
+* Platform: Web
+* Feature:
+    - music process relay (like Spotify)
 
 ### Other
 🟨 Keep learning & exploring AI through X, YouTube, Bilibili, and other social media.
