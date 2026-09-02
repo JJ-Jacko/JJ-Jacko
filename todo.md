@@ -63,6 +63,9 @@
 * Feature:
     - music process relay (like Spotify)
 
+#### Traffic System
+[Details](/projects/traffic-system/README.md)
+
 ### Other
 🟨 Keep learning & exploring AI through X, YouTube, Bilibili, and other social media.
 
