@@ -34,7 +34,7 @@
 
 ⬜ feat(python.uv)
 
-⬜ feat(python.cli_app): module `argparse`
+⬜ feat(python.cli_app): reference official document module `argparse`
 
 ⬜ feat(python.design.nogui_app): project-dir, CLI-friendly (Recommended)
 
