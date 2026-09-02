@@ -2,6 +2,8 @@
 
 ⬜ Learn FastAPI in depth.
 
+⬜ Learn front-end in depth.
+
 ⬜ Learn TypeScript in depth.
 
 ⬜ Learn Vite in depth.
