@@ -46,6 +46,9 @@
 
 ⬜ feat(linux.immortalwrt)
 
+#### [cps](https://github.com/JJ-Jacko/cps)
+⬜ feat: dark mode following system setting
+
 #### [tool_box](https://github.com/JJ-Jacko/tool_box)
 ⬜ refactor: project DIR mode -> CLI mode
 
