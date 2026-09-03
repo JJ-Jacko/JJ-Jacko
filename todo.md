@@ -53,6 +53,9 @@
 #### [cps](https://github.com/JJ-Jacko/cps)
 ⬜ feat: dark mode following system setting
 
+#### [sb_cfg_gen](https://github.com/JJ-Jacko/sb_cfg_gen)
+⬜ feat: Telegram bot sand message activity(datetime, fetch, get, ip)
+
 #### [tool_box](https://github.com/JJ-Jacko/tool_box)
 ⬜ refactor: project DIR mode -> CLI mode
 
