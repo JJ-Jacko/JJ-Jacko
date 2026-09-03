@@ -58,6 +58,9 @@
 
 ⬜ feat(cli.password_gen)
 
+#### [jacko_py_template](https://github.com/JJ-Jacko/jacko_py_template)
+⬜ feat(log): project DIR mode or CLI mode
+
 #### Music App
 * Platform: Web
 * Feature:
