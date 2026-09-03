@@ -40,6 +40,8 @@
 
 ⬜ feat(linux.env_var): traditional method
 
+⬜ feat(other.git): SSH key for Github or Gitea
+
 ⬜ feat(home.news): all posts sored by post date
 
 ⬜ feat(linux.jellyfin)
