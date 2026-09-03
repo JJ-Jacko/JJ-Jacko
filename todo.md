@@ -64,6 +64,9 @@
 #### [jacko_py_template](https://github.com/JJ-Jacko/jacko_py_template)
 ⬜ feat(log): project DIR mode or CLI mode
 
+#### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
+⬜ refactor: fake TUI -> CLI
+
 #### Music App
 * Platform: Web
 * Feature:
