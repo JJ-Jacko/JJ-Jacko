@@ -44,6 +44,8 @@
 
 ⬜ feat(home.news): all posts sored by post date
 
+⬜ feat(home): number of visits
+
 ⬜ feat(linux.jellyfin)
 
 ⬜ feat(linux.openlist)
@@ -51,6 +53,9 @@
 ⬜ feat(linux.qbittorrent)
 
 ⬜ feat(linux.immortalwrt)
+
+#### blog_backend
+⬜ feat(home): number of visits
 
 #### [cps](https://github.com/JJ-Jacko/cps)
 ⬜ feat: dark mode following system setting
