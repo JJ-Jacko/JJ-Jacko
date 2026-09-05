@@ -46,12 +46,6 @@
 
 ⬜ feat(home): number of visits
 
-⬜ feat(linux.jellyfin)
-
-⬜ feat(linux.openlist)
-
-⬜ feat(linux.qbittorrent)
-
 ⬜ feat(linux.immortalwrt)
 
 #### blog_backend
@@ -90,6 +84,12 @@
 ## ✔️ Finished
 ### Project
 #### vitepress_blog
+✅ feat(linux.qbittorrent)
+
+✅ feat(linux.jellyfin)
+
+✅ feat(linux.openlist)
+
 ✅ feat(other.powershell)
 
 ✅ feat(home.software_tools)
