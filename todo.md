@@ -46,6 +46,10 @@
 
 ⬜ feat(home): number of visits
 
+⬜ refactor(linux): grouping posts directory 
+
+⬜ refactor(linux.service_configuration -> linux.service deployment)
+
 ⬜ feat(linux.immortalwrt)
 
 #### blog_backend
