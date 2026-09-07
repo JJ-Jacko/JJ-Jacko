@@ -68,6 +68,8 @@
 #### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
 ⬜ refactor: fake TUI -> CLI
 
+⬜ feat(cli): i18n
+
 #### Music App
 * Platform: Web
 * Feature:
