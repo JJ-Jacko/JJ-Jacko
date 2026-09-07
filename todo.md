@@ -61,11 +61,6 @@
 #### [sb_cfg_gen](https://github.com/JJ-Jacko/sb_cfg_gen)
 ⬜ feat: Telegram bot sand message activity(datetime, fetch, get, ip)
 
-#### [tool_box](https://github.com/JJ-Jacko/tool_box)
-⬜ refactor: project DIR mode -> CLI mode
-
-⬜ feat(cli.password_gen)
-
 #### [jacko_py_template](https://github.com/JJ-Jacko/jacko_py_template)
 ⬜ feat(log): project DIR mode or CLI mode
 
@@ -98,3 +93,7 @@
 
 ✅ feat(home.software_tools)
 
+#### [tool_box](https://github.com/JJ-Jacko/tool_box)
+✅ refactor: project DIR mode -> CLI mode
+
+✅ feat(cli.password_gen)
