@@ -68,8 +68,6 @@
 ⬜ feat(cli): feat(cli): set default value and show in help string
 
 #### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
-⬜ refactor: fake TUI -> CLI
-
 ⬜ feat(cli): i18n
 
 #### Music App
@@ -106,3 +104,6 @@
 ✅ refactor: project DIR mode -> CLI mode
 
 ✅ feat(cli.password_gen)
+
+#### mouse_clicker
+✅ refactor: fake TUI -> CLI
