@@ -24,8 +24,6 @@
 ⬜ Learn Telegram Bot in rough.
 
 #### [vitepress_blog](https://github.com/JJ-Jacko/vitepress_blog)
-⬜ fix(zh_cn | zh_hk): localize containers (`warning`, `tip`)  
-
 ⬜ feat(other.singbox): app and core(configuration and launch script)
 
 ⬜ feat(front-end.env): vite, live preview, debug
@@ -83,6 +81,8 @@
 ## ✔️ Finished
 ### Project
 #### vitepress_blog
+✅ fix(zh_cn): localize containers (`warning`, `tip`)  
+
 ✅ feat(linux.qbittorrent)
 
 ✅ feat(linux.jellyfin)
