@@ -84,7 +84,7 @@
 ✅ fix(zh_cn): localize containers (`warning`, `tip`)  
 
 ✅ feat(linux.qbittorrent)
-
+w
 ✅ feat(linux.jellyfin)
 
 ✅ feat(linux.openlist)
@@ -94,6 +94,8 @@
 ✅ feat(home.software_tools)
 
 #### [tool_box](https://github.com/JJ-Jacko/tool_box)
+✅ fix(cli): generated commands show full python command
+
 ✅ refactor: project DIR mode -> CLI mode
 
 ✅ feat(cli.password_gen)
