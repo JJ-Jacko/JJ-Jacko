@@ -65,6 +65,8 @@
 #### [tool_box](https://github.com/JJ-Jacko/tool_box)
 ⬜ fix(cli): path input using `type=pathlib.Path`
 
+⬜ feat(cli): feat(cli): set default value and show in help string
+
 #### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
 ⬜ refactor: fake TUI -> CLI
 
