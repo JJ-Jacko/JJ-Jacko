@@ -62,6 +62,9 @@
 #### [jacko_py_template](https://github.com/JJ-Jacko/jacko_py_template)
 ⬜ feat(log): project DIR mode or CLI mode
 
+#### [tool_box](https://github.com/JJ-Jacko/tool_box)
+⬜ fix(cli): path input using `type=pathlib.Path`
+
 #### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
 ⬜ refactor: fake TUI -> CLI
 
@@ -84,7 +87,7 @@
 ✅ fix(zh_cn): localize containers (`warning`, `tip`)  
 
 ✅ feat(linux.qbittorrent)
-w
+
 ✅ feat(linux.jellyfin)
 
 ✅ feat(linux.openlist)
@@ -93,7 +96,7 @@ w
 
 ✅ feat(home.software_tools)
 
-#### [tool_box](https://github.com/JJ-Jacko/tool_box)
+#### tool_box
 ✅ fix(cli): generated commands show full python command
 
 ✅ refactor: project DIR mode -> CLI mode
