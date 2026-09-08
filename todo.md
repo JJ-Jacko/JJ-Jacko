@@ -70,7 +70,6 @@
 ⬜ feat(cli): feat(cli): set default value and show in help string
 
 #### [mouse_clicker](https://github.com/JJ-Jacko/mouse_clicker)
-⬜ feat(cli): i18n
 
 #### Music App
 * Platform: Web
@@ -108,4 +107,6 @@
 ✅ feat(cli.password_gen)
 
 #### mouse_clicker
+✅ feat(cli): i18n
+
 ✅ refactor: fake TUI -> CLI
