@@ -63,6 +63,8 @@
 ⬜ feat(log): project DIR mode or CLI mode
 
 #### [tool_box](https://github.com/JJ-Jacko/tool_box)
+⬜ fix(services.gen_pwd): the same type character is same
+
 ⬜ fix(cli): path input using `type=pathlib.Path`
 
 ⬜ feat(cli): feat(cli): set default value and show in help string
