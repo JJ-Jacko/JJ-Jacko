@@ -37,8 +37,6 @@
 
 ⬜ feat(front-end.env): vite, live preview, debug
 
-⬜ feat(python): mention `uv`
-
 ⬜ feat(python.uv)
 
 ⬜ feat(python.cli_app): reference official document module `argparse`
@@ -99,6 +97,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ feat(python): mention `uv` and package management
+
 ✅ fix(zh_cn): localize containers (`warning`, `tip`)  
 
 ✅ feat(linux.qbittorrent)
