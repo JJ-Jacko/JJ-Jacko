@@ -20,6 +20,13 @@
 ### Project
 🟨 Maintain & improve existing projects multiple times a week.
 
+#### [jobs_hk](https://github.com/JJ-Jacko/jobs_hk)
+⬜ Tool calling path.
+
+⬜ Conversation persistence.
+
+⬜ Codes divided into 3 layers (Infrastructure, Business Logic, Presentation).
+
 #### [tg_bot_learn](https://github.com/JJ-Jacko/tg_bot_learn)
 ⬜ Learn Telegram Bot in rough.
 
@@ -86,6 +93,9 @@
 
 ## ✔️ Finished
 ### Project
+#### jobs_hk
+✅ OpenAI SDK instead of Ollama.
+
 #### vitepress_blog
 ✅ fix(zh_cn): localize containers (`warning`, `tip`)  
 
