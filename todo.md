@@ -31,6 +31,8 @@
 ⬜ Learn Telegram Bot in rough.
 
 #### [vitepress_blog](https://github.com/JJ-Jacko/vitepress_blog)
+⬜ refactor(sidebars): post file path use common directory path variables
+
 ⬜ feat(other.singbox): app and core(configuration and launch script)
 
 ⬜ feat(front-end.env): vite, live preview, debug
