@@ -43,6 +43,12 @@
 
 ⬜ feat(other.git): SSH key for Github or Gitea
 
+⬜ refactor(explore): path generator in single random function
+
+⬜ feat(datas.Post): date, location, tag
+
+⬜ feat(theme.ArticleMeta): load post meta from `constants`
+
 ⬜ feat(home.news): all posts sored by post date
 
 ⬜ feat(home): number of visits
