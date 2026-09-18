@@ -53,6 +53,8 @@
 
 ⬜ feat(home): number of visits
 
+⬜ feat: support for AI Agent load markdown post
+
 ⬜ refactor(linux): grouping posts directory 
 
 ⬜ refactor(linux.service_configuration -> linux.service deployment)
