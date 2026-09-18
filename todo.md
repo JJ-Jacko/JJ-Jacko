@@ -31,8 +31,6 @@
 ⬜ Learn Telegram Bot in rough.
 
 #### [vitepress_blog](https://github.com/JJ-Jacko/vitepress_blog)
-⬜ feat(front-end.env): vite, live preview, debug
-
 ⬜ feat(python.uv)
 
 ⬜ feat(python.cli_app): reference official document module `argparse`
@@ -100,6 +98,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ feat(front-end.env)
+
 ✅ feat(other.singbox): app and core(configuration and launch script)
 
 ✅ refactor(sidebars): post file path use common directory path variables
