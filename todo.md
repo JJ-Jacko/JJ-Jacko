@@ -63,7 +63,6 @@
 ⬜ feat(home): number of visits
 
 #### [cps](https://github.com/JJ-Jacko/cps)
-⬜ feat: dark mode following system setting
 
 #### [sb_cfg_gen](https://github.com/JJ-Jacko/sb_cfg_gen)
 ⬜ feat: Telegram bot sand message activity(datetime, fetch, get, ip)
@@ -116,6 +115,9 @@
 ✅ feat(other.powershell)
 
 ✅ feat(home.software_tools)
+
+#### cps
+✅ feat: dark mode following system setting
 
 #### tool_box
 ✅ fix(cli): generated commands show full python command
