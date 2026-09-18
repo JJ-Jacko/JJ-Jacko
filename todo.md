@@ -41,8 +41,6 @@
 
 ⬜ feat(other.git): SSH key for Github or Gitea
 
-⬜ refactor(explore): path generator in single random function
-
 ⬜ feat(datas.Post): date, location, tag
 
 ⬜ feat(theme.ArticleMeta): load post meta from `constants`
@@ -98,6 +96,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ refactor(explore): path generator in single random function
+
 ✅ feat(front-end.env)
 
 ✅ feat(other.singbox): app and core(configuration and launch script)
