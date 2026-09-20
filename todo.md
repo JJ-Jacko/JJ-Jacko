@@ -31,6 +31,8 @@
 ⬜ Learn Telegram Bot in rough.
 
 #### [vitepress_blog](https://github.com/JJ-Jacko/vitepress_blog)
+⬜ fix(theme.ArticleMeta.title): same id different category using same name
+
 ⬜ feat(python.uv)
 
 ⬜ feat(python.cli_app): reference official document module `argparse`
