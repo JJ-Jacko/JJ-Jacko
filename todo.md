@@ -43,8 +43,6 @@
 
 ⬜ feat(datas.Post): date, location, tag
 
-⬜ feat(theme.ArticleMeta): load post meta from `constants`
-
 ⬜ feat(home.news): all posts sored by post date
 
 ⬜ feat(home): number of visits
@@ -96,6 +94,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ feat(theme.ArticleMeta): load post meta from `constants`
+
 ✅ refactor(explore): path generator in single random function
 
 ✅ feat(front-end.env)
