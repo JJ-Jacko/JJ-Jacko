@@ -31,8 +31,6 @@
 ⬜ Learn Telegram Bot in rough.
 
 #### [vitepress_blog](https://github.com/JJ-Jacko/vitepress_blog)
-⬜ fix(theme.ArticleMeta.title): same id different category using same name
-
 ⬜ feat(python.uv)
 
 ⬜ feat(python.cli_app): reference official document module `argparse`
@@ -94,6 +92,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ fix(tools.getPost): same id different category using same name
+
 ✅ feat(theme.ArticleMeta): load post meta from `constants`
 
 ✅ refactor(explore): path generator in single random function
