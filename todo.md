@@ -41,8 +41,6 @@
 
 ⬜ feat(other.git): SSH key for Github or Gitea
 
-⬜ feat(datas.Post): date, location, tag
-
 ⬜ feat(home.news): all posts sored by post date
 
 ⬜ feat(home): number of visits
@@ -92,6 +90,8 @@
 ✅ OpenAI SDK instead of Ollama.
 
 #### vitepress_blog
+✅ feat(datas.Post): date, location, tag
+
 ✅ fix(tools.getPost): same id different category using same name
 
 ✅ feat(theme.ArticleMeta): load post meta from `constants`
