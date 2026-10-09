@@ -17,6 +17,9 @@
 
 ⬜ Learn Cloudflare workflows in rough.
 
+### Other
+⬜ Learn [Minecraft Fabric](https://docs.fabricmc.net) Mod development in depth.
+
 ### Project
 🟨 Maintain & improve existing projects multiple times a week.
 
